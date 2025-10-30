@@ -15,23 +15,22 @@ This repository contains **another implementation of [Retina U-Net](https://gith
 
 ## 🖼️ Sample Results
 
-### Example Segmentations
+## 🖼️ Sample Segmentations
 
-| Retinal Image | Ground Truth Mask | Model Prediction |
-|---------------|-----------------|----------------|
-| ![Image1](path/to/image1.png) | ![Mask1](path/to/mask1.png) | ![Prediction1](path/to/prediction1.png) |
-| ![Image2](path/to/image2.png) | ![Mask2](path/to/mask2.png) | ![Prediction2](path/to/prediction2.png) |
-| ![Image3](path/to/image3.png) | ![Mask3](path/to/mask3.png) | ![Prediction3](path/to/prediction3.png) |
+### Example 1
+![Example 1](https://raw.githubusercontent.com/Iyed0092/Retinal-Vessel-Segmentation/main/test/test_Original_GroundTruth_Prediction0.png)
+*Retinal image, Ground Truth Mask, and Model Prediction stacked vertically.*
+
 
 ---
 
 ### Performance Curves
 
 #### ROC Curve
-![ROC Curve](path/to/roc_curve.png)
+![ROC Curve](https://raw.githubusercontent.com/Iyed0092/Retinal-Vessel-Segmentation/main/test/ROC.png)
 
 #### Precision-Recall Curve
-![Precision-Recall Curve](path/to/pr_curve.png)
+![Precision-Recall Curve](https://raw.githubusercontent.com/Iyed0092/Retinal-Vessel-Segmentation/main/test/Precision_recall.png)
 
 ---
 
