@@ -1,0 +1,19 @@
+# Numerical computing
+numpy
+
+# Deep learning
+tensorflow
+h5py
+
+# Image processing
+Pillow
+opencv-python
+
+# Plotting and visualization
+matplotlib
+
+# Machine learning utilities
+scikit-learn
+
+# Config parsing (optional)
+configparser
