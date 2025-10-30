@@ -18,8 +18,9 @@ This repository contains **another implementation of [Retina U-Net](https://gith
 ## 🖼️ Sample Segmentations
 
 ### Example 1
-![Example 1](https://raw.githubusercontent.com/Iyed0092/Retinal-Vessel-Segmentation/main/test/test_Original_GroundTruth_Prediction0.png)
-*Retinal image, Ground Truth Mask, and Model Prediction stacked vertically.*
+<img src="https://raw.githubusercontent.com/Iyed0092/Retinal-Vessel-Segmentation/main/test/test_Original_GroundTruth_Prediction0.png" width="400"/>
+<p>Retinal image, Ground Truth Mask, and Model Prediction stacked vertically.</p>
+
 
 
 ---
